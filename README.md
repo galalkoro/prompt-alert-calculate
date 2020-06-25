@@ -1,6 +1,6 @@
 # The project Prompt-Alert-Calculate
 
-### The main purpose of this project are:
+### The main purposes of this project are:
 
 1. Learning JavaScript
 2. Learning how to work in team
