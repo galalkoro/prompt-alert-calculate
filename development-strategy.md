@@ -74,7 +74,7 @@ __As a site visitor, I want to execute the function `divide`__
 
 __As a site visitor, I want to execute the function `multiply`__
 
-> assigned to Mari
+> assigned to Sayed
 
 ### Repo
 
