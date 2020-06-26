@@ -1,3 +1,4 @@
+
 .button-add {
 	text-align: center;
 	margin-top: 35px;
@@ -16,3 +17,15 @@
 	background-color: chartreuse;
 	font-size: 40px;
 }
+
+
+.centered {
+
+    margin: 30vh 30vw 0 30vw;
+}
+
+.centered button {
+
+    margin-top: 3vh;
+}
+
