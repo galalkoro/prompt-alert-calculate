@@ -87,8 +87,8 @@ function addHandler() {
 	console.log('lastResult (before):', typeof lastResult, '\n', lastResult);
 
 	// read a number from the user
-	const x = Number(document.getElementById('input-first').value);
-	const y = lastResult;
+	const x = prompt(' enter a numbers ');
+	const y = Number(x);
 
 	// add the user's number to the last result and reassign lastResult
 	const result = add(x, y);
