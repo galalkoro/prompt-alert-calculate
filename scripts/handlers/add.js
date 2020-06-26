@@ -92,6 +92,7 @@ function addHandler() {
 
 	// add the user's number to the last result and reassign lastResult
 	const result = add(x, y);
+	lastResult = add(lastResult, y);
 	console.log('lastResult (after):', typeof lastResult, '\n', lastResult);
 
 	alert(`the new result is: ${lastResult}`);
